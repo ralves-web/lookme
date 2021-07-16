@@ -1,0 +1,102 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: Poppins,sans-serif;
+
+}
+
+/**
+Header
+*/
+#home {
+    background: #333;
+    color: white;
+}
+
+
+.navbar-light .navbar-nav .nav-link {
+    color: rgba(0,0,0,.5);
+    text-transform: uppercase;
+
+    
+
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+    color: rgb(143, 94, 143);
+    
+}
+
+/**
+Section btn
+*/
+.btn-outline-light:hover .fa-instagram {
+    color:purple;
+}
+
+.btn-outline-light:hover .fa-facebook {
+    color: #2b55ff;
+}
+
+.btn-outline-light:hover .fa-whatsapp {
+    color: #078b0e;
+}
+
+
+
+.btn-outline-light:hover .fa-twitter {
+    color: #00aced;
+}
+
+
+/**
+Footer
+*/
+
+.myFooter p {
+    padding-top:32px;
+    text-align: center;
+    color: #282b2d;
+    font-size: 18px;
+}
+
+
+
+
+
+
+
+
+
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) { 
+
+  
+
+ }
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) { 
+
+}
+
+
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) { 
+
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) { 
+
+
+}
